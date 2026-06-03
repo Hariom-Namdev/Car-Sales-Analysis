@@ -13,7 +13,7 @@ The project demonstrates practical SQL skills commonly used by Data Analysts, in
 - Business Analysis
 - Revenue Analysis
 - Conditional Logic
-
+ 
 ---
 
 ## 📊 Dataset Information
