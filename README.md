@@ -1,6 +1,6 @@
 # 🚗 Car Sales Analysis Using SQL
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project analyzes a large scale car sales dataset using PostgreSQL. The objective is to perform data cleaning, explore sales patterns, and generate business insights related to vehicle pricing, manufacturers, states, body types, and sales performance.
 
